@@ -1,0 +1,19 @@
+	body {
+background-color: #D1F2EB;
+}
+
+a:hover {
+color: grey;
+}
+
+img {
+border-color:#AED6F1;
+border-width: 5px;
+border-style: solid;
+}
+
+.colorBand {
+	background: #5DADE2;
+	height: 120px;
+	width: 100%;
+}
