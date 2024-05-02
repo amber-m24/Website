@@ -12,8 +12,11 @@ border-width: 5px;
 border-style: solid;
 }
 
-.colorBand {
+.topnav {
 	background: #5DADE2;
-	height: 120px;
+	height: 25px;
 	width: 100%;
+}
+.topnav a.active {
+	color: white;
 }
