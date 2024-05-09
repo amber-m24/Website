@@ -20,3 +20,17 @@ border-style: solid;
 .topnav a.active {
 	color: white;
 }
+table, th, td {
+border: 1px;
+border-style: solid;
+border-color: black;
+}
+th, td {
+	padding-top: 10 px;
+	padding-bottom: 10 px;
+	padding-right: 20 px;
+	padding-left: 20 px;
+}
+th {
+	text-align: left;
+}
