@@ -34,3 +34,9 @@ th, td {
 th {
 	text-align: left;
 }
+h1 {
+	text-align: center;
+	border-style: solid;
+	border-color:#AED6F1;
+	border-width: 10px;
+}
